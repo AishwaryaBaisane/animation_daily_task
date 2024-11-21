@@ -22,9 +22,9 @@ AlignTextAnimationWidget(
 
 ### 📸 Screenshots : 
 <div align = "center">
-<p>
+
   <img src = "https://github.com/user-attachments/assets/1218aa03-f468-4ebb-bf08-7500aecb983d" height = 25% width =25%>
-</p>
+
 </div>
 
 ### 🎬 Demo :
@@ -61,9 +61,9 @@ AnimatedAlign(
   
 ### 📸 Screenshots : 
 <div align = "center">
-<p>
+
   <img src = "https://github.com/user-attachments/assets/0ea1fa24-7fe9-48bd-bda8-7c593533e877" height = 25% width =25%>
-</p>
+
 </div>
 
 
@@ -95,9 +95,9 @@ AnimatedAlign(
 ### 📸 Screenshots : 
 
 <div align = "center">  
-<p>
+
   <img src = "https://github.com/user-attachments/assets/2ee45372-d8aa-4116-8ef2-709f8735ca4b" height = 25% width =25%>
-</p>
+
 </div>
 
 ### 🎬 Demo :
@@ -135,10 +135,10 @@ Hero(
  ### 📸 Screenshots : 
  
  <div align = "center">
-<p>
+
   <img src = "https://github.com/user-attachments/assets/8b5d46ae-f3d4-4230-8475-3cccda5e0ca0" height = 25% width =25%>
   <img src = "https://github.com/user-attachments/assets/45d66bde-55f5-463b-861c-af2cd7ec50fb" height = 25% width =25%>
-</p>
+
 </div>
 
 ### 🎬 Demo :
