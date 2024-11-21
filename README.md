@@ -10,10 +10,30 @@
 
 
 
-## Align
+ ## 📝 AnimatedAlign Task Widget:
 
 - In Flutter, transition effects refer to the animations and visual changes that occur when transitioning between different screens, widgets, or states within the app.
 - These effects enhance the user experience by making interactions smoother and more visually appealing.
+- A Flutter widget for task management with smooth alignment animations! 🎯
+
+### 🌟 Features
+ - 📍 Dynamic Alignment: Adjust task positions with AnimatedAlign.
+ - 🎨 Customizable: Configure animations, durations, and alignment points.
+ - 🛠️ Developer-Friendly: Simple API for easy integration into task management apps.
+
+```dart
+AnimatedAlign(
+  alignment: Alignment.centerRight,
+  duration: Duration(seconds: 1),
+  curve: Curves.easeInOut,
+  child: TaskCard(title: 'Complete Flutter project 🚀'),
+);
+
+```
+### 💻 Use Cases
+- Task organizers 🗂️
+- Animated UI elements ✨
+- Drag-and-drop features 🖱️
 
 <p>
   <img src = "https://github.com/user-attachments/assets/0ea1fa24-7fe9-48bd-bda8-7c593533e877" height = 25% width =25%>
@@ -27,7 +47,7 @@
 - A customizable Drag & Drop Widget for Flutter, designed to make implementing interactive drag-and-drop functionality easy and intuitive.
 - Perfect for building reorderable lists, interactive UI layouts, and more. 🚀
 
- ## 🌟 Features
+ ### 🌟 Features
  - 🎨 Customizable: Fully customizable widgets for both draggable and drop targets.
  - 📏 Constraints: Set boundaries for draggable widgets to control movement.
  - ⚡ Smooth Animations: Built-in smooth drag and drop animations. 
