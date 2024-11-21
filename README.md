@@ -1,6 +1,6 @@
 # animation_daily_task
 
-## ✨ Align & Text Animation Widget for Flutter 🚀
+## ✨ Align & Text Animation Widget 🚀
 - 🎨 Flutter widget to bring your UI to life with smooth alignments and engaging text animations! Perfect for making your Flutter app delightful and user-friendly.
 
 ## 🔑 Features
