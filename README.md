@@ -27,6 +27,7 @@ AlignTextAnimationWidget(
 </p>
 
 ### 🎬 Demo :
+https://github.com/user-attachments/assets/ad4093fb-eabb-413a-9c86-8ea767e7eba5
 
 <div align = "center">
 <a  href="https://github.com/user-attachments/assets/ad4093fb-eabb-413a-9c86-8ea767e7eba5"> -> To see video click here <- </a>
@@ -133,7 +134,7 @@ Hero(
 </p>
 
 ### 🎬 Demo :
-
+https://github.com/user-attachments/assets/a27f62eb-0116-4466-8a0c-709e9b67baad
 <div align = "center">
 <a  href="https://github.com/user-attachments/assets/a27f62eb-0116-4466-8a0c-709e9b67baad"> -> To see video click here <- </a>
 </div>
