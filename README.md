@@ -28,19 +28,19 @@
 - Perfect for building reorderable lists, interactive UI layouts, and more. 🚀
 
  ## 🌟 Features
-🎨 Customizable: Fully customizable widgets for both draggable and drop targets.
-📏 Constraints: Set boundaries for draggable widgets to control movement.
-⚡ Smooth Animations: Built-in smooth drag and drop animations.
-💼 Multi-Item Drag Support: Drag and drop multiple widgets simultaneously.
-💻 Cross-Platform: Works seamlessly on Android, iOS, and desktop platforms.
-🛠️ Event Callbacks: Get notified of drag events like onDragStart, onDragUpdate, and onDragEnd.
+ - 🎨 Customizable: Fully customizable widgets for both draggable and drop targets.
+ - 📏 Constraints: Set boundaries for draggable widgets to control movement.
+ - ⚡ Smooth Animations: Built-in smooth drag and drop animations. 
+ - 💼 Multi-Item Drag Support: Drag and drop multiple widgets simultaneously.
+ - 💻 Cross-Platform: Works seamlessly on Android, iOS, and desktop platforms.
+ - 🛠️ Event Callbacks: Get notified of drag events like onDragStart, onDragUpdate, and onDragEnd.
 
  ### Icons
-📦: Package setup
-🛠️: Configuration/Development
-🌟: Features
-🖥️: Visual elements
-🤝: Collaboration
+ - 📦: Package setup
+ - 🛠️: Configuration/Development
+ - 🌟: Features
+ - 🖥️: Visual elements
+ - 🤝: Collaboration
 
 <p>
   <img src = "https://github.com/user-attachments/assets/2ee45372-d8aa-4116-8ef2-709f8735ca4b" height = 25% width =25%>
