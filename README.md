@@ -56,12 +56,12 @@ AnimatedAlign(
 - Task organizers 🗂️
 - Animated UI elements ✨
 - Drag-and-drop features 🖱️
-  
+
 ### 📸 Screenshots : 
+
 <div align = "center">
-
-  <img src = "https://github.com/user-attachments/assets/0ea1fa24-7fe9-48bd-bda8-7c593533e877" height = 25% width =25%>
-
+<img src = "https://github.com/user-attachments/assets/244e36ed-ff4b-49f3-862f-6aee218b05de" height = 25% width =25%>
+<img src = "https://github.com/user-attachments/assets/01bce0ef-fb0b-47f8-8249-f10855423cbc" height = 25% width =25%>
 </div>
 
 
