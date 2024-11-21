@@ -1,5 +1,15 @@
 # animation_daily_task
 
+<p>
+  <img src = "https://github.com/user-attachments/assets/1218aa03-f468-4ebb-bf08-7500aecb983d" height = 25% width =25%>
+</p>
+
+<div align = "center">
+<a  href="https://github.com/user-attachments/assets/ad4093fb-eabb-413a-9c86-8ea767e7eba5"> -> To see video click here <- </a>
+</div>
+
+
+
 ## Align
 
 - In Flutter, transition effects refer to the animations and visual changes that occur when transitioning between different screens, widgets, or states within the app.
@@ -10,16 +20,19 @@
 </p>
 
 <div align = "center">
-<a  href="https://github.com/user-attachments/assets/6256cfb0-87dc-4f08-90c0-8c09680ef5d9"> ->📽️📽️ To see video click here 📽️📽️<- </a>
+<a  href="https://github.com/user-attachments/assets/6256cfb0-87dc-4f08-90c0-8c09680ef5d9"> -> To see video click here <- </a>
 </div>
 
 
+
+
+
 <p>
-  <img src = "https://github.com/user-attachments/assets/1218aa03-f468-4ebb-bf08-7500aecb983d" height = 25% width =25%>
+  <img src = "https://github.com/user-attachments/assets/2ee45372-d8aa-4116-8ef2-709f8735ca4b" height = 25% width =25%>
 </p>
 
 <div align = "center">
-<a  href="https://github.com/user-attachments/assets/ad4093fb-eabb-413a-9c86-8ea767e7eba5"> ->📽️📽️ To see video click here 📽️📽️<- </a>
+<a  href="https://github.com/user-attachments/assets/02bb4bb5-8377-4d00-a68c-f0fb6aa5e1dc"> -> To see video click here <- </a>
 </div>
 
 
