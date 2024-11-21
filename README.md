@@ -22,15 +22,13 @@ AlignTextAnimationWidget(
 
 ### 📸 Screenshots : 
 <div align = "center">
-
   <img src = "https://github.com/user-attachments/assets/1218aa03-f468-4ebb-bf08-7500aecb983d" height = 25% width =25%>
 
 </div>
 
 ### 🎬 Demo :
-
-<div align = "center">
-<a  href="https://github.com/user-attachments/assets/ad4093fb-eabb-413a-9c86-8ea767e7eba5"> -> To see video click here <- </a>
+<div align="center">
+  <video height="450" src="https://github.com/user-attachments/assets/ad4093fb-eabb-413a-9c86-8ea767e7eba5" controls />
 </div>
 
 
@@ -68,11 +66,10 @@ AnimatedAlign(
 
 
 ### 🎬 Demo :
-
-<div align = "center">
-<a  href="https://github.com/user-attachments/assets/6256cfb0-87dc-4f08-90c0-8c09680ef5d9"> -> To see video click here <- </a>
+<div align="center">
+  <video height="450" src="https://github.com/user-attachments/assets/6256cfb0-87dc-4f08-90c0-8c09680ef5d9" controls />
 </div>
-  
+
 ## 🪄 Flutter Drag & Drop Widget
 - A customizable Drag & Drop Widget for Flutter, designed to make implementing interactive drag-and-drop functionality easy and intuitive.
 - Perfect for building reorderable lists, interactive UI layouts, and more. 🚀
@@ -95,16 +92,14 @@ AnimatedAlign(
 ### 📸 Screenshots : 
 
 <div align = "center">  
-
   <img src = "https://github.com/user-attachments/assets/2ee45372-d8aa-4116-8ef2-709f8735ca4b" height = 25% width =25%>
-
 </div>
 
 ### 🎬 Demo :
-
-<div align = "center">
-<a  href="https://github.com/user-attachments/assets/02bb4bb5-8377-4d00-a68c-f0fb6aa5e1dc"> -> To see video click here <- </a>
+<div align="center">
+  <video height="450" src="https://github.com/user-attachments/assets/02bb4bb5-8377-4d00-a68c-f0fb6aa5e1dc" controls />
 </div>
+
   
 ## ✨ Hero Widget ✨
 - 🚀 Hero widget in Flutter enables seamless shared element transitions between screens, creating smooth and beautiful animations.
@@ -135,16 +130,13 @@ Hero(
  ### 📸 Screenshots : 
  
  <div align = "center">
-
   <img src = "https://github.com/user-attachments/assets/8b5d46ae-f3d4-4230-8475-3cccda5e0ca0" height = 25% width =25%>
   <img src = "https://github.com/user-attachments/assets/45d66bde-55f5-463b-861c-af2cd7ec50fb" height = 25% width =25%>
-
 </div>
 
 ### 🎬 Demo :
-https://github.com/user-attachments/assets/a27f62eb-0116-4466-8a0c-709e9b67baad
-<div align = "center">
-<a  href="https://github.com/user-attachments/assets/a27f62eb-0116-4466-8a0c-709e9b67baad"> -> To see video click here <- </a>
+<div align="center">
+  <video height="450" src="https://github.com/user-attachments/assets/a27f62eb-0116-4466-8a0c-709e9b67baad" controls />
 </div>
 
 
