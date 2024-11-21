@@ -23,10 +23,11 @@
 <a  href="https://github.com/user-attachments/assets/6256cfb0-87dc-4f08-90c0-8c09680ef5d9"> -> To see video click here <- </a>
 </div>
   
-🪄 Flutter Drag & Drop Widget
-A customizable Drag & Drop Widget for Flutter, designed to make implementing interactive drag-and-drop functionality easy and intuitive. Perfect for building reorderable lists, interactive UI layouts, and more. 🚀
+## 🪄 Flutter Drag & Drop Widget
+- A customizable Drag & Drop Widget for Flutter, designed to make implementing interactive drag-and-drop functionality easy and intuitive.
+- Perfect for building reorderable lists, interactive UI layouts, and more. 🚀
 
-🌟 Features
+ ## 🌟 Features
 🎨 Customizable: Fully customizable widgets for both draggable and drop targets.
 📏 Constraints: Set boundaries for draggable widgets to control movement.
 ⚡ Smooth Animations: Built-in smooth drag and drop animations.
