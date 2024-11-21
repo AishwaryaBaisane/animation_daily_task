@@ -9,5 +9,10 @@
   <img src = "https://github.com/user-attachments/assets/0ea1fa24-7fe9-48bd-bda8-7c593533e877" height = 25% width =25%>
 </p>
 
-[arrvideo.webm](https://github.com/user-attachments/assets/95fbc4cd-9e65-427e-a6bc-03e28c8ef445)
+<p>
+  <img src = "https://github.com/user-attachments/assets/1218aa03-f468-4ebb-bf08-7500aecb983d" height = 25% width =25%>
+</p>
 
+
+[animated data.webm](https://github.com/user-attachments/assets/8db40b3f-aa84-4863-aa96-529be019e81b)
+[arrvideo.webm](https://github.com/user-attachments/assets/5aa2c1dc-e6d7-4add-a746-d373b6a6848a)
