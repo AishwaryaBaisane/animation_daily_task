@@ -1,13 +1,36 @@
 # animation_daily_task
 
+## ✨ Align & Text Animation Widget for Flutter 🚀
+- 🎨 Flutter widget to bring your UI to life with smooth alignments and engaging text animations! Perfect for making your Flutter app delightful and user-friendly.
+
+## 🔑 Features
+- 🎯 Align Animations: Seamlessly move widgets across the screen with smooth transitions.
+- 🔤 Text Animations: Add dynamic effects to text like fading, scaling, and sliding for a modern look.
+- ⚡️ Customizable: Fine-tune animation speed, alignment, easing, and more.
+- 📱 Responsive: Works flawlessly across devices and screen sizes.
+  
+## 🛠️ How to Use
+```dart
+AlignTextAnimationWidget(
+  text: "Welcome to Flutter! 🎉",
+  duration: Duration(seconds: 2),
+  alignment: Alignment.topCenter,
+  animationType: TextAnimationType.fadeIn,
+);
+
+```
+
+### 📸 Screenshots : 
+
 <p>
   <img src = "https://github.com/user-attachments/assets/1218aa03-f468-4ebb-bf08-7500aecb983d" height = 25% width =25%>
 </p>
 
+### 🎬 Demo :
+
 <div align = "center">
 <a  href="https://github.com/user-attachments/assets/ad4093fb-eabb-413a-9c86-8ea767e7eba5"> -> To see video click here <- </a>
 </div>
-
 
 
  ## 📝 AnimatedAlign Task Widget:
@@ -34,10 +57,13 @@ AnimatedAlign(
 - Task organizers 🗂️
 - Animated UI elements ✨
 - Drag-and-drop features 🖱️
-
+  
+### 📸 Screenshots : 
 <p>
   <img src = "https://github.com/user-attachments/assets/0ea1fa24-7fe9-48bd-bda8-7c593533e877" height = 25% width =25%>
 </p>
+
+### 🎬 Demo :
 
 <div align = "center">
 <a  href="https://github.com/user-attachments/assets/6256cfb0-87dc-4f08-90c0-8c09680ef5d9"> -> To see video click here <- </a>
@@ -62,19 +88,51 @@ AnimatedAlign(
  - 🖥️: Visual elements
  - 🤝: Collaboration
 
+### 📸 Screenshots : 
 <p>
   <img src = "https://github.com/user-attachments/assets/2ee45372-d8aa-4116-8ef2-709f8735ca4b" height = 25% width =25%>
 </p>
 
+### 🎬 Demo :
+
 <div align = "center">
 <a  href="https://github.com/user-attachments/assets/02bb4bb5-8377-4d00-a68c-f0fb6aa5e1dc"> -> To see video click here <- </a>
 </div>
+  
+## ✨ Hero Widget ✨
+- 🚀 Hero widget in Flutter enables seamless shared element transitions between screens, creating smooth and beautiful animations.
 
+### 🌟 Key Features
+- 🔄 Effortless shared element animations
+- 🖼️ Smooth image & widget transitions
+- 📱 Perfect for creating modern, dynamic UIs
+
+### 🛠️ How It Works
+- Wrap the widget you want to animate with a Hero widget.
+- Give it a unique tag that matches between source and destination screens.
+- Flutter takes care of the animation magic! ✨
+
+```dart
+
+Hero(
+  tag: 'my-unique-tag',
+  child: Image.asset('assets/my_image.png'),
+)
+```
+
+### 🎯 Use Cases
+- Product or profile card animations 🛍️
+- Photo gallery transitions 📸
+- Engaging screen-to-screen animations 📖
+
+ ### 📸 Screenshots :  
 <p>
   <img src = "https://github.com/user-attachments/assets/8b5d46ae-f3d4-4230-8475-3cccda5e0ca0" height = 25% width =25%>
     <img src = "https://github.com/user-attachments/assets/45d66bde-55f5-463b-861c-af2cd7ec50fb" height = 25% width =25%>
 
 </p>
+
+### 🎬 Demo :
 
 <div align = "center">
 <a  href="https://github.com/user-attachments/assets/a27f62eb-0116-4466-8a0c-709e9b67baad"> -> To see video click here <- </a>
