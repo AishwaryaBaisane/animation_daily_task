@@ -139,6 +139,43 @@ Hero(
   <video height="450" src="https://github.com/user-attachments/assets/a27f62eb-0116-4466-8a0c-709e9b67baad" controls />
 </div>
 
+## 🎮 Animation Controller :
+### 🔧 A powerful tool in Flutter to manage animations!
+
+## What it does:
+- Controls animation playback (start, stop, reverse).
+- Allows customization of animation duration and curve.
+- Synchronizes animations with the Flutter framework.
+  
+## 📚 Usage:
+
+```dart
+AnimationController _controller = AnimationController(
+  vsync: this, // Required for performance optimization
+  duration: Duration(seconds: 1),
+);
+
+_controller.forward(); // Starts the animation
+_controller.reverse(); // Reverses the animation
+```
+
+## 💡 Tips:
+
+- Use TickerProvider for optimal performance.
+- Combine with Tween for dynamic animation values.
+- 🚀 Build delightful, smooth UIs with precise animation control!
+
+ ### 📸 Screenshot : 
+ 
+ <div align = "center">
+  <img src = "https://github.com/user-attachments/assets/9a429e3b-cc10-475f-b88f-be9527fcc33e" height = 25% width =25%>
+</div>
+
+### 🎬 Demo :
+<div align="center">
+  <video height="450" src="https://github.com/user-attachments/assets/cfea7755-215b-4b28-a4ff-6a21a150007d" controls />
+</div>
+
 
 
 
